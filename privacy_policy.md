@@ -1,4 +1,4 @@
-Privacy Policy for Lara
+## Privacy Policy for Lara
 
 Last updated: 21.11.2025
 

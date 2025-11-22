@@ -1,6 +1,6 @@
 ## Privacy Policy for Lara
 
-Last updated: 21.11.2025
+Last updated: 22.11.2025
 
 This privacy policy explains how Lara (“the App”) collects, uses, and protects your information. We are committed to respecting your privacy and complying with Google Play policies.
 

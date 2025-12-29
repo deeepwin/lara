@@ -1,6 +1,6 @@
 # Nutzungsbedingungen und Haftungsausschluss
 
-Stand: [DATUM]
+Stand: 29.12.2025
 
 ## 1. Zweck der App
 

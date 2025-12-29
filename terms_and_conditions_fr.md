@@ -1,6 +1,6 @@
 # Conditions d’utilisation et avertissement
 
-Dernière mise à jour : [DATE]
+Dernière mise à jour: 29.12.2025
 
 ## 1. Objet de l’application
 
